@@ -1,6 +1,6 @@
 ### Hi, I'm Joaquim 👋🧑🏻‍💻
 
-You can find me 🌎:
+## You can find me 🌎:
 - [Twitter](https://twitter.com/joaquim_ribera)
 
 [![JoaquimRS GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimRS)](https://github.com/anuraghazra/github-readme-stats)
