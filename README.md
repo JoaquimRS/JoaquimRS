@@ -3,7 +3,7 @@
 You can find me 🌎:
 - [Twitter](https://twitter.com/joaquim_ribera)
 
-[![JoaquimRS's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimRS)](https://github.com/anuraghazra/github-readme-stats)
+[![JoaquimRS GitHub stats](https://github-readme-stats.vercel.app/api?username=JoaquimRS)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **JoaquimRS/JoaquimRS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
