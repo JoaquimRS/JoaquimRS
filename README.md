@@ -3,7 +3,7 @@
 
 
 
-- 🔭 I’m currently working on [Cars City](https://github.com/JoaquimRS/Cars_City_FRAMEWORK_PHP_OO_MVC_jQuery)
+- 🔭 I’m currently working on [Cars City](https://github.com/JoaquimRS/Cars_City_AngularJS)
 
 - 🌱 I’m currently learning **AngularJS**
 
