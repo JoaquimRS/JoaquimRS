@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cars City](https://github.com/JoaquimRS/Cars_City_FRAMEWORK_PHP_OO_MVC_jQuery)
 
-- 🌱 I’m currently learning **PHP Framework**
+- 🌱 I’m currently learning **AngularJS**
 
 - 💬 Ask me about **HTML, CSS, PHP, JavaScript, jQuery**
 
