@@ -55,6 +55,9 @@
 <a href="https://spring.io/projects/spring-boot">
     <img src="https://skillicons.dev/icons?i=spring" />
 </a>
+<a href="https://go.dev/">
+    <img src="https://skillicons.dev/icons?i=go" />
+</a>
 </p>
 <h3 align="center">Databases:</h3>
 <p align="center"> 
