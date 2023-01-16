@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 💬 Ask me about **Angular, Vue, NodeJS, Laravel, SpringBoot**
+- 💬 Ask me about **Angular, Vue, NodeJS, Laravel, SpringBoot, Go**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
